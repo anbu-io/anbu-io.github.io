@@ -2,11 +2,11 @@
 
 /* Imports */
 
-@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 :root {
-   --font-display: 'Dosis', sans-serif;
-   --font-body: 'Dosis', sans-serif;
+   --font-display: 'Oswald', sans-serif;
+   --font-body: 'Oswald', sans-serif;
 }
 
 /* UI */
@@ -110,10 +110,6 @@
 
 /* Icons */
 
-.currency-rp {
-    background-image: url('https://anbu-io.github.io/RP.png');
-}
-
 .ticker-button {
    background-image: url(https://stickfab.github.io/pc-fluenticons/assets/24/info.svg) !important;
    filter: invert(76%) sepia(69%) saturate(2337%) hue-rotate(345deg)
@@ -211,7 +207,7 @@
    height: 100%;
    text-align: center;
    padding: 0.3rem;
-   transition: all 0.2s ease-in-out;
+   transition: all 0.0s ease-in-out;
 }
 
 .play-button-content {
