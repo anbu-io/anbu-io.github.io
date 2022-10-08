@@ -61,20 +61,20 @@
 .parties-view,
 .clash-root-background /*,
 .champion-splash-background */ {
-   background-image: url('https://thicc-thighs.de/stuff/wallpaper.jpg') !important;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+    background-image: url('https://anbu-io.github.io/wallpaper.jpg') !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .uikit-background-switcher,
 .lol-uikit-background-switcher-image {
-   content: url('https://thicc-thighs.de/stuff/wallpaper.jpg') !important;
-   width: 100% !important;
-   height: 100% !important;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+    content: url('https://anbu-io.github.io/wallpaper.jpg') !important;
+    width: 100% !important;
+    height: 100% !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .rcp-fe-viewport-sidebar {
