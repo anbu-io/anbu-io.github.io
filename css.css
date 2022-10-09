@@ -47,9 +47,6 @@
    left: 0;
 }
 
-/*.icon-image {
-   content: url('https://thicc-thighs.de/stuff/old_avatar.gif') !important;
-} */
 
 .clash-root-background-landing,
 .hold-leave,
@@ -61,7 +58,7 @@
 .parties-view,
 .clash-root-background /*,
 .champion-splash-background */ {
-    background-image: url('https://cdna.artstation.com/p/assets/images/images/015/608/426/large/artur-sadlos-leg-more-sh280-background-as-v005.jpg') !important;
+    background-image: url('https://i.imgur.com/1aLkS6n.jpeg') !important;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -69,12 +66,12 @@
 
 .uikit-background-switcher,
 .lol-uikit-background-switcher-image {
-   content: url('https://anbu-io.github.io/wallpaper.jpg') !important;
-   width: 120% !important;
-   height: 120% !important;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+    content: url('https://i.imgur.com/1aLkS6n.jpegg') !important;
+    width: 100% !important;
+    height: 100% !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .rcp-fe-viewport-sidebar {
@@ -92,15 +89,15 @@
 }
 
 .loot-backdrop .lol-uikit-video-content {
-   background: url(https://anbu-io.github.io/wallpaper.jpg) !important;
-   display: block;
-   box-sizing: border-box;
-   width: 180px;
-   height: 236px;
-   padding-left: 180px;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+    background: url(https://i.imgur.com/1aLkS6n.jpeg) !important;
+    display: block;
+    box-sizing: border-box;
+    width: 180px;
+    height: 236px;
+    padding-left: 180px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .lol-uikit-dialog-frame.top,
