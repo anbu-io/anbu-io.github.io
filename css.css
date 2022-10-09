@@ -56,10 +56,10 @@
 .parties-view,
 .clash-root-background /*,
 .champion-splash-background */ {
-   background-image: url('https://anbu-io.github.io/wallpaper.jpg') !important;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+    background-image: url('https://cdna.artstation.com/p/assets/images/images/015/608/426/large/artur-sadlos-leg-more-sh280-background-as-v005.jpg') !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .uikit-background-switcher,
