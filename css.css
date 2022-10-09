@@ -2,7 +2,12 @@
 
 /* Imports */
 
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
 
+:root {
+    --font-display: 'Dosis', sans-serif;
+    --font-body: 'Dosis', sans-serif;
+}
 
 /* UI */
 
