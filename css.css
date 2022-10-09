@@ -70,8 +70,8 @@
 .uikit-background-switcher,
 .lol-uikit-background-switcher-image {
    content: url('https://anbu-io.github.io/wallpaper.jpg') !important;
-   width: 100% !important;
-   height: 100% !important;
+   width: 105% !important;
+   height: 105% !important;
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
