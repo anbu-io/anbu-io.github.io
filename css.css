@@ -111,7 +111,7 @@
 /* Icons */
 
 .ticker-button {
-   background-image: url(https://stickfab.github.io/pc-fluenticons/assets/24/info.svg) !important;
+   background-imagebackground-image: url(https://stickfab.github.io/pc-fluenticons/assets/24/info.svg) !important;
    filter: invert(76%) sepia(69%) saturate(2337%) hue-rotate(345deg)
       brightness(99%) contrast(97%);
    transition: all 0.2s ease-in-out;
@@ -207,7 +207,7 @@
    height: 100%;
    text-align: center;
    padding: 0.3rem;
-   transition: all 0.0s ease-in-out;
+   transition: all 0.1s ease-in-out;
 }
 
 .play-button-content {
@@ -219,8 +219,12 @@
    width: unset !important;
 }
 
+.generic-button-primary-img-container {
+    background-image: url(https://anbu-io.github.io/start.png) !important;
+}
+
 .play-button-container:hover {
-   background-color: rgba(59, 59, 59, 0.719);
+    background-color: rgba(59, 59, 59, 0.719);
 }
 
 .play-button-container,
