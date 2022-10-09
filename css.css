@@ -70,8 +70,8 @@
 .uikit-background-switcher,
 .lol-uikit-background-switcher-image {
    content: url('https://anbu-io.github.io/wallpaper.jpg') !important;
-   width: 110% !important;
-   height: 110% !important;
+   width: 120% !important;
+   height: 120% !important;
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -217,10 +217,6 @@
 
 .play-button-text {
    width: unset !important;
-}
-
-.find-match-button-container {
-    background-image: url(https://anbu-io.github.io/start.png) !important;
 }
 
 .play-button-container:hover {
